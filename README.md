@@ -42,7 +42,7 @@
   <a href="https://open.spotify.com/user/juaomene?si=dbc9885d649248d2" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a> 
   
  
-
+  ![Snake animation](https://github.com/meneeses/meneeses/blob/output/github-contribution-grid-snake.svg)
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
