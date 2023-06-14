@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Meneses;I'm+18+years+old;I'm+from+Curitiba,+PR;I+am+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-- 💻Desenvolvedor Front-End
+- 💻 Software Developer
 - 📚 Sempre em processo de estudo e adquirindo novos conhecimentos :)
 - 🎹 Apaixonado por música 
 - 💪 Gosto de desafios 
