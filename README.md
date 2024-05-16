@@ -2,12 +2,11 @@
 
 ### Olá! Sou João Meneses! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Meneses;I'm+18+years+old;I'm+from+Curitiba,+PR;I+am+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Meneses;I'm+19+years+old;I'm+from+Curitiba,+PR;I+am+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 💻 Software Developer
 - 📚 Sempre em processo de estudo e adquirindo novos conhecimentos :)
-- 🎹 Apaixonado por música 
 - 💪 Gosto de desafios 
 
 <div align="center">
