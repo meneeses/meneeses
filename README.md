@@ -52,14 +52,3 @@ A lightweight status page for the platform above — 90-day uptime sparklines, r
 An interactive 3D portfolio concept: GitHub developers rendered as stars, their repositories orbiting as planets. Fully open source.
 
 `React Three Fiber` `Fastify` `Supabase`
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=meneeses&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meneeses&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
