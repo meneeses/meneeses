@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=João%20Meneses&fontSize=38&fontColor=fff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20TypeScript&descSize=15&descAlignY=58"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaoo-meneses/" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-meneeses/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:jm5995378@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:meneses-joao@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/>
   </a>
 </div>
 
@@ -13,12 +13,14 @@
 
 ## About Me
 
-Full-Stack Engineer and co-founder with hands-on experience taking a SaaS product from architecture to production — backend, frontend, infrastructure and security included.
+Full-Stack Engineer and co-founder with hands-on experience taking SaaS products from architecture to production — backend, frontend, infrastructure, security and incident response included.
 
-- 🚀 Co-founder & CTO at **ICone Academy**, a multi-tenant SaaS ERP for the gelato industry, currently live in production
+- 🚀 Co-founder & CTO at **ICone Academy**, a multi-tenant SaaS ERP for the gelato industry, live in production across **20 companies and 30 users**
+- 📊 Built a documented data ecosystem with **500+ ingredients and 100+ production recipes**
 - 🛠️ Core stack: **.NET / C#** and **Node.js / Fastify** on the backend, **Next.js / React / TypeScript** on the frontend
-- ☁️ Comfortable end-to-end: database design, cloud deployment (Azure), CI/CD, observability and app security (RBAC, 2FA, RLS, OWASP Top 10)
-- 🌍 Based in Brazil, relocating to Spain — open to remote roles with international teams
+- ☁️ Own technical decisions across database design, Azure deployment, CI/CD, observability and application security (RBAC, 2FA, RLS, OWASP Top 10)
+- 🤝 Lead and mentor a small engineering team while remaining hands-on across the product
+- 🌍 Open to remote roles with international teams
 
 ---
 
@@ -37,18 +39,32 @@ Full-Stack Engineer and co-founder with hands-on experience taking a SaaS produc
 ## Featured Projects
 
 ### 🍦 [ICone Academy](https://icone.academy)
-A multi-tenant SaaS ERP built for artisan and industrial gelato producers — recipe costing and balancing, reverse-engineering of formulas, nutritional documentation, subscriptions and marketplace, all in one platform.
+A multi-tenant SaaS ERP for artisan and industrial gelato producers, currently supporting **20 companies, 30 users, 500+ documented ingredients and 100+ production recipes**. It covers recipe costing and balancing, formula reverse-engineering, nutritional documentation, subscriptions and marketplace workflows.
 
-As co-founder and CTO, I own the system end to end: architecture, backend security (RBAC, 2FA, row-level security), the Next.js/.NET codebase, cloud infrastructure on Azure, and the CI/CD pipeline. The codebase is private (production client platform), but I'm happy to walk through the architecture in an interview.
+As co-founder and CTO, I own the system end to end: architecture, backend security (RBAC, 2FA and row-level security), the Next.js/.NET codebase, Azure infrastructure, CI/CD and production incident response. The codebase is private, but I am happy to walk through the architecture in an interview.
 
-`Next.js` `.NET` `Node.js` `React Native` `PostgreSQL` `Azure`
+**Next.js · .NET · Node.js · React Native · PostgreSQL · Azure**
 
-### 📡 [ICone Status](https://status.icone.academy)
-A lightweight status page for the platform above — 90-day uptime sparklines, real backend health data, automated checks via GitHub Actions.
+### 🛡️ [Sentinela — Secure User Management](https://github.com/meneeses/gestao-usuarios)
+A full-stack user-management application demonstrating JWT authentication, role-based authorization, secure defaults and reproducible local setup. Includes API documentation, automated tests and end-to-end browser coverage.
 
-`Node.js` `GitHub Actions`
+**React · TypeScript · Express · Prisma · SQLite · Playwright · Vitest**
 
 ### 🌌 [Novae Universe](https://github.com/meneeses/novae-universe)
-An interactive 3D portfolio concept: GitHub developers rendered as stars, their repositories orbiting as planets. Fully open source.
+An interactive 3D universe where GitHub developers become stars and their repositories orbit as procedurally generated worlds. Includes GitHub OAuth, multiplayer support and a full open-source contribution structure.
 
-`React Three Fiber` `Fastify` `Supabase`
+**React Three Fiber · Fastify · Supabase · GitHub OAuth**
+
+### 📡 [ICone Status](https://status.icone.academy)
+A lightweight status page with 90-day uptime sparklines, real backend health data and automated checks through GitHub Actions.
+
+**Node.js · GitHub Actions**
+
+---
+
+## Contact
+
+I am open to remote Full-Stack and Software Engineering opportunities with international teams.
+
+- **Email:** meneses-joao@hotmail.com
+- **LinkedIn:** [linkedin.com/in/joao-meneeses](https://www.linkedin.com/in/joao-meneeses/)
